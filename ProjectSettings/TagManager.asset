@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Cherry
+  - Trap
+  - PLayer
+  - DeadPoint
+  - Quai
+  - Straw
+  - Enemy2
+  - Enemy3
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Ground
+  - Enemy
+  - quaito
+  - enemySpawn
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - MiniMap
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 4198317753
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Terrain
+    uniqueID: 3980888237
+    locked: 0
+  - name: Menu
+    uniqueID: 3239785861
+    locked: 0
